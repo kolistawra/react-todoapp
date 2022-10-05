@@ -1,6 +1,8 @@
 # React-toDoListApp
 Patika.dev Frontend Eğitimi serisinde React öğrenirken hazırlamış olduğum to do list çalışması.
 
+Preview -> https://kolistawra.github.io/react-todoapp
+
 ![Önizleme](https://i.hizliresim.com/4jbvn0l.png)
 
 # Getting Started with Create React App
